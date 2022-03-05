@@ -109,10 +109,10 @@
 	},
 	"sources": {
 		"contracts/structmapping.sol": {
-			"keccak256": "0xa5fb33e8845243de01be091483e855107c9567542a14123e5fdb444a0b54b85e",
+			"keccak256": "0x43fb5b2ef0021e5a4f01f36033d57b0405f9933841e7a47491d026b60fe98d27",
 			"urls": [
-				"bzz-raw://c0d298cf4dce0eded68025205f55011c6ee4122613b5fce9eaa4fed79a7c5d37",
-				"dweb:/ipfs/QmPqdSYWtRDfN2rKPWGEa74f5aAnsJphFWAPDBQVLZ1Yww"
+				"bzz-raw://ae63ca27ef4dc53549b7d985b16e7e77a4a01151d09da1e3c3dc81d54481daad",
+				"dweb:/ipfs/Qmf4J7DyshWhZLAwmk7N64aYcLtAs8dmmTaGhSBJSRGxJr"
 			]
 		}
 	},

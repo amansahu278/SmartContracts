@@ -35,7 +35,7 @@ contract StructMapping {
 
     function withdrawAllMoney(address payable _to) public {
 
-        // Checks-effects-interaction pattern
+        // Checks-effects-interaction pattern.  You interact with outside addresses last
         uint balanceToSend = balanceRecieved[_to].totalBalance;
         balanceRecieved[_to].totalBalance = 0;
         _to.transfer(balanceToSend);
