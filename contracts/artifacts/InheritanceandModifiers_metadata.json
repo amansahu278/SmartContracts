@@ -97,10 +97,17 @@
 	},
 	"sources": {
 		"contracts/modifier.sol": {
-			"keccak256": "0xee4a8004d2ef35485a0ef38f59a8379c68a9128e4c40ebfc147d82d2d2aebf7a",
+			"keccak256": "0x3a12a60de1c0bc374d579e91c3aa23404bc1ce55bb0a622aa2fc97720793ea00",
 			"urls": [
-				"bzz-raw://8bac08d3f6e9aabf6b26f37ef9a2ac936c70f6de25019515fd37e827283ff31c",
-				"dweb:/ipfs/QmWJwZab4pHAZRiQz5b48bpVbTPtB9sVxuKa4VbYu6n6WU"
+				"bzz-raw://e18525765e8a67968eb0d2762d86447bc325b5658a9a041b8a1fbc4bb1f9ddcc",
+				"dweb:/ipfs/QmdbNrduzsfog4fT1QrNXe8ZLTRgZRQ9FcfdmwrTgq71wE"
+			]
+		},
+		"contracts/owner.sol": {
+			"keccak256": "0x53234036306005159e6c33aeba447b0e0e4f83fc0f8ab6a78a5166b37ef20124",
+			"urls": [
+				"bzz-raw://af23e7d0078c58f764ad36f185fab983f58ef5ef47069095bd5aac0970d378e0",
+				"dweb:/ipfs/QmbPwrdVpwCbzrzNH1GAN8DiThGnpFUbvir5ezo8h7o6tp"
 			]
 		}
 	},
