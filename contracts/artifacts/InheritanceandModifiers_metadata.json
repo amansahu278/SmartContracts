@@ -97,10 +97,10 @@
 	},
 	"sources": {
 		"contracts/modifier.sol": {
-			"keccak256": "0x734dd5ab165a034822a0bf33ef7ed2ed899b1032d1e1d2128be12985b907efb6",
+			"keccak256": "0xee4a8004d2ef35485a0ef38f59a8379c68a9128e4c40ebfc147d82d2d2aebf7a",
 			"urls": [
-				"bzz-raw://98175cc4c7cb0ee52671c8cf0dadb94734af391514d63363c639758bb938092c",
-				"dweb:/ipfs/Qmc7oiohygZGeHoi8P1S3CsyW3zCS9NQxQaJgiy9FrCHht"
+				"bzz-raw://8bac08d3f6e9aabf6b26f37ef9a2ac936c70f6de25019515fd37e827283ff31c",
+				"dweb:/ipfs/QmWJwZab4pHAZRiQz5b48bpVbTPtB9sVxuKa4VbYu6n6WU"
 			]
 		}
 	},

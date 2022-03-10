@@ -1,21 +1,26 @@
 pragma solidity ^0.8;
 
-contract InheritanceandModifiers{
-
-    mapping(address => uint) public tokenBalance;
-
+contract Owned {
     address owner;
-
-    uint tokenPrice = 1 ether;
 
     constructor() {
         owner = msg.sender;
-        tokenBalance[owner] = 100;
     }
 
     modifier onlyOwner() {
         require(msg.sender == owner, "Not authorized!");
         _; // The body of the function adding the modifier onlyOwner, will be replaced in the "_"
+    }
+}
+
+contract InheritanceandModifiers is Owned {
+
+    mapping(address => uint) public tokenBalance;
+
+    uint tokenPrice = 1 ether;
+
+    constructor() {
+        tokenBalance[owner] = 100;
     }
 
     function createNewToken() public onlyOwner{

@@ -24,7 +24,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/modifier.sol": "Owned"
+			"contracts/modifier.sol": "Owner"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -39,10 +39,10 @@
 	},
 	"sources": {
 		"contracts/modifier.sol": {
-			"keccak256": "0xee4a8004d2ef35485a0ef38f59a8379c68a9128e4c40ebfc147d82d2d2aebf7a",
+			"keccak256": "0x4c65c7bad6168b30e17b9309311aaab0a6c0073f05f3bf45d1adfea0178d69d8",
 			"urls": [
-				"bzz-raw://8bac08d3f6e9aabf6b26f37ef9a2ac936c70f6de25019515fd37e827283ff31c",
-				"dweb:/ipfs/QmWJwZab4pHAZRiQz5b48bpVbTPtB9sVxuKa4VbYu6n6WU"
+				"bzz-raw://442560f8ffb6e6201ce8df4cc651049a2d7265a176ce78081e222c0483c73e7f",
+				"dweb:/ipfs/QmV746kVXwDdYcZ8oWcwkJ4pPeuHzNLt3yUbrKG29sxzJ7"
 			]
 		}
 	},
